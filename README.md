@@ -95,7 +95,7 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ![](4.PNG)
 
 ### Optimal Policy with Gamma = 0.90 and its probability success rate:
-![](2.PNG)
+![](2.png)
 
 ![](3.PNG)
 
